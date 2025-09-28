@@ -1,2 +1,2 @@
 print ('hello')
-print ('manreet12345678')
+print ('today is sunday')
